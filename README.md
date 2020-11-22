@@ -89,7 +89,7 @@ close to three quarters of all marine-related economic activity of the region.
 ## The Team
 The primary author of this archive is Curtis C. Bohlen, Director and lead
 scientist of the Casco Bay Estuary Partnership. Other members of the CBEP
-staff, including Marti Blair, Victoria BOundy, Matthew Craig, and and Thomas
+staff, including Marti Blair, Victoria Boundy, Matthew Craig, and and Thomas
 Gilmartin have made additional contributions.
 
 You can find more informaiton about us at the [CBEP website](cascobayestuary.org).
@@ -105,32 +105,30 @@ repositories
 ### A. DRIVERS AND STRESSORS; "WHAT'S AFFECTING THE BAY?"  
 *  A1	Population and Land Use  
         *  Population / Census  
-		*  Land Use  
+	*  Land Use  
 *  A2	Wastewater Disposal  
         * Data on wastewater discharges from major Casco Bay Wastewater Treatment  
-		Facilites, via Maine DEP. [WWTF_Discharges](../WWTF_Discharges) 
+	    Facilites, via Maine DEP. ..........  [WWTF_Discharges](../WWTF_Discharges)  
 *  A3	Stormwater  
         *  Ten years of water quality monitoting data from Long Creek, 
-		provided by the Long Creek Watershed Management District [LCWMD_Monitoring](../LCWMD_Monitoring)   
+		provided by the Long Creek Watershed Management District ..........  [LCWMD_Monitoring](../LCWMD_Monitoring)
 *  A4	Combined Sewer Overflows  
         * Maine DEP, City of Portland, and Portland Water District data
-		on CSO discharges [Casco_Bay_CSOs](../Casco_Bay_CSOs)  
+		on CSO discharges ..........  [Casco_Bay_CSOs](../Casco_Bay_CSOs)  
 *  A5 	Inland Water Quality  
         *  Accessing Maine Department of Environmental Protection (DEP)
-		biomonitoring data over the internet[access_biomonitoring](../access_biomonitoring)   
+		biomonitoring data over the internet ..........  [access_biomonitoring](../access_biomonitoring)  
         *  Analyzing DEP  Stream Invertebrate biomonitoring data
-		[Analysis_Biomonitoring](../Analysis_Biomonitoring)  
-		
-		
+		..........  [Analysis_Biomonitoring](../Analysis_Biomonitoring)   	
 *  A6	Climate Change  
         * Analysis of eight decades of weather data from the Portland Jetport.
 		Data accessed through NOAA online data APIs.  <../CDO-Portland-Jetport>  
 		* Redrawing a graphic depicting decades of sea level rise at the Portland
-		tide gage. <../Portland-SLR>  
+		tide gage. ..........  [Portland-SLR](../Portland-SLR)  
 *  A7	Invasive Species  
 ### B. CONDITION OF THE BAY; "HOW IS THE BAY DOING?"	
 *  B8	Bay Water Quality  
-        * Friends of Casco Bay (FOCB) water quality monitoting data <../FOCB_Data>  
+        * Friends of Casco Bay (FOCB) water quality monitoting data ..........  [FOCB_Data](../FOCB_Data)  
 *  B9	Nutrients  
 *  B10	Aquatic Connectivity  
 *  B11	Eelgrass  
@@ -138,31 +136,31 @@ repositories
 *  B13	Coastal Acidification  
         * Analysis of data collected by UNH, on behalf of CBEP, measuring
 		OA-related parameters at the Southern Maine Community College pier,
-		in South Portland.  <../CBEP_OA>  
+		in South Portland.  ..........  [CBEP_OA](../CBEP_OA)  
 		* Analysis of a four years of Friends of Casco Bay (FOCB) water quality
 		data that pertians to ocean acidification.  Data is from data loggers
-		deployed off Chebeague Island. <../FOCB_OA>  
+		deployed off Chebeague Island. ..........  [FOCB_OA](../FOCB_OA)  
 *  B14	Swimming Beaches and Shellfish Beds  
         *  Maine Department of Marine Resources (DMR) data on bacteria in
-		shellfish <../Shellfish_Bacteria>  
+		shellfish ..........  [Shellfish_Bacteria](../Shellfish_Bacteria)  
 		*  Maine Beaches Program data on bacteria at monitored beaches
-		<../Beaches_Bacteria>  
+		..........  [Beaches_Bacteria](../Beaches_Bacteria)  
 *  B15	Toxics  
         * CBEP historical data on toxics in Casco Bay Sediments
-		<../CBEP_Sediments>  
+		..........  [CBEP_Sediments](../CBEP_Sediments)  
 		* Maine Surface Water Ambient Toxics (SWAT) data on toxic
-		contaminants in blue mussels <../SWAT_Mussels>  
+		contaminants in blue mussels ..........  [SWAT_Mussels](../SWAT_Mussels)  
 		* Portland Harbor COmmission data on toxic contaminants in Portland
-		harbor sediments <../PortlandHarborToxics>  
-		* Maine Board of Pesticides COntrol data on pyrethroid pesticides in
-		intertidal sediments <../BPC_Pesticides>  
+		harbor sediments ..........  [PortlandHarborToxics](../PortlandHarborToxics)  
+		* Maine Board of Pesticides Control data on pyrethroid pesticides in
+		intertidal sediments ..........  [BPC_Pesticides](../BPC_Pesticides)  
 
 ### C. HUMAN CONNECTIONS; "WHY DO WE CARE?"	  
 *  C16	Conserved Lands  
 *  C17	Coastal Habitats  
 *  C18	Economics  
         *  Analysis of recent data on number of cruise ships and cruise ship
-		visitors visiting Portland, Maine.  <../PortlandCruiseShips>  
+		visitors visiting Portland, Maine. ..........  [PortlandCruiseShips](../PortlandCruiseShips)  
 *  C19	Education  
 *  C20	Stewardship  
 *  C21	Climate Preparedness  
@@ -173,19 +171,19 @@ repositories
 *  Small package to facilitate use of maximum likelihood estimates of 
    (unobserved) left censored values in left censored data, such as
    observations of concentrations of contaminants or bacteria.
-   <../LCensMeans>
+   ..........  [LCensMeans](../LCensMeans)
 *  Utility package to facilitate uniformaty in graphic design for 
    the 2020 **State of Casco Bay** report.  Defines a default
-   graphic style, and six preferred colors.  <../ CBEP_graphics>
+   graphic style, and six preferred colors.  ..........  [CBEP_graphics](../CBEP_graphics)
 
 ### Side Projects
 *  Exploratory code looking at OA monitoring data from multiple 
-   National Estuary Programs.  <../NEP_OA>
+   National Estuary Programs.  ..........  [NEP_OA](../NEP_OA)
 *  Notebooks examining thermodynamic relationships among OA
    parameters, temperature and salinity., especially the relationship
    between pCO~2~, [CO~2~] and temperature. Developed to help us
    understand the underlying chemistry for the OA chapter of
-   **State of Casco Bay**. <../OA_Calculations>
+   **State of Casco Bay**. ..........  [OA_Calculations](../OA_Calculations)
 *  Derivation of spatially-balanced sampling design for studying presence
    of pesticides in wells near Maine's iconic wild blueberry fields.
    Project conducted  to assist Maine's Board of Pesticides Control, which
@@ -193,11 +191,11 @@ repositories
    Surveillance near blueberry fields has long been a priority because of 
    a combination of highly permiable soild and sensitive aquatic environments
    in the part of the state where blueberries are grown commercially.
-   <../Blueberry_Sampling>
+   ..........  [Blueberry_Sampling](../Blueberry_Sampling)
 *  Small Python (3) program providing a simple GUI for playing streaming video
    on a Raspberry Pi.  Simplistic program with limited functionality. Can
    also be used on a Windowns computer.  not tested on Apple or other Unix
-   systems. <../radiostreamer>
+   systems. ..........  [radiostreamer](../radiostreamer)
 
 
 
