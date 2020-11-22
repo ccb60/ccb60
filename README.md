@@ -89,10 +89,10 @@ close to three quarters of all marine-related economic activity of the region.
 ## The Team
 The primary author of this archive is Curtis C. Bohlen, Director and lead
 scientist of the Casco Bay Estuary Partnership. Other members of the CBEP
-staff, including Marti Blair, Victoria BOundy, Matthew Craig, and and Thomas
+staff, including Marti Blair, Victoria Boundy, Matthew Craig, and and Thomas
 Gilmartin have made additional contributions.
 
-You can find more informaiton about us at the (CBEP website.)[cascobayestuary.org]
+You can find more informaiton about us at the (CBEP website)[cascobayestuary.org].
 
 ## Table of Contents
 
@@ -108,18 +108,18 @@ repositories
 		*  Land Use  
 *  A2	Wastewater Disposal  
         * Data on wastewater discharges from major Casco Bay Wastewater Treatment  
-		Facilites, via Maine DEP. <../WWTF_Discharges>  
+		Facilites, via Maine DEP. [WWTF_Discharges](../WWTF_Discharges)  
 *  A3	Stormwater  
         *  Ten years of water quality monitoting data from Long Creek, 
-		provided by the Long Creek Watershed Management District <../LCWMD_Monitoring>  
+		provided by the Long Creek Watershed Management District [LCWMD_Monitoring](../LCWMD_Monitoring)
 *  A4	Combined Sewer Overflows  
         * Maine DEP, City of Portland, and Portland Water District data
-		on CSO discharges <../Casco_Bay_CSOs>  
+		on CSO discharges [Casco_Bay_CSOs](../Casco_Bay_CSOs)  
 *  A5 	Inland Water Quality  
         *  Accessing Maine Department of Environmental Protection (DEP)
-		biomonitoring data over the internet <../access_biomonitoring>  
+		biomonitoring data over the internet [access_biomonitoring](../access_biomonitoring)  
         *  Analyzing DEP  Stream Invertebrate biomonitoring data
-		<../Analysis_Biomonitoring>  
+		[Analysis_Biomonitoring](../Analysis_Biomonitoring)  
 		
 		
 *  A6	Climate Change  
