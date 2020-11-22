@@ -23,12 +23,12 @@ make use of Python (3), principally for data access from online repositories.
 In some cases, data preparation relied on non-open source tools, especially 
 Microsoft Excel and ESRI's ArcGIS.  Where included, spreadsheet and GIS files
 are either provided as is (as *.xlsx files), use industry standard formats(e.g., 
-shapefiles for geospatial data) or are provided in CSV files.
+shapefiles for geospatial data) or are provided as CSV files.
 
 Original data files are in the format in which they were recieved, which
-included spreadsheets, CSV files, tab delimiited text files, shapefiles,
+included spreadsheets, CSV files, tab delimited text files, shapefiles,
 XML files, and more.  Derived data files are principally presented as CSV files,
-althugh some geospatial data are provided in other formats.
+although some geospatial data are provided in other formats.
 
 ## Data Provenance and Repository Structure
 Wherever possible, we have included raw data sources, or (more rarely)
@@ -38,7 +38,7 @@ of each repository.  Our goal, not 100% achieved as yet, is to document
 sources of data, and "show our work". Therefore, "cleaned", "rearranged"
 or "transformed" data (on which subsequent analyses are based) are included in a
 **"Derived_Data"** folder, often with documentation of data review and QA/QC.
-Formal statistical analysis (if deamed necessary) is in an "Analysis" folder,
+Formal statistical analysis (if deamed necessary) is in an **"Analysis"** folder,
 while code generating draft **State of Casco Bay** graphics are in the
 **"Graphics"** folder (usually with final drafts in a subfolder named 
 **"figures"**).  Not all four folders are present in each repository,
@@ -48,16 +48,17 @@ organization of information a bit easier to follow.
 ## About Casco Bay and Casco Bay Estuary Partnership
 
 Casco Bay Estuary Partnership (CBEP) is one of twenty eight National
-Estuary Programs.  Each National Estuary Program is a locally led, non-regulatory,
-collaborative organization that works to address challenges facing Estuaries of
-National Significance and the communities on their shores.
+Estuary Programs.  Each National Estuary Program is a locally led,
+non-regulatory, science-based collaborative organization that works
+to address challenges facing Estuaries of National Significance and
+the communities on their shores.
 
 CBEP works with dozens of partner organizations, including federal, state, and local
 government; colleges and universities; non-profits and interest groups; local
 businesses and private citizens on behalf of Casco Bay, a coastal embayment in
 southern Maine. 
 
-You can find more information about CBEP on our (web site)[cascobayestuary.org]
+You can find more information about CBEP on our [web site](cascobayestuary.org).
 
 Casco Bay is approximately 160 square miles in size, dotted with hundreds of
 islands. The roughly 980 square mile watershed is long and narrow, extending 
@@ -107,29 +108,29 @@ repositories
 		*  Land Use  
 *  A2	Wastewater Disposal  
         * Data on wastewater discharges from major Casco Bay Wastewater Treatment  
-		Facilites, via Maine DEP. (../WWTF_Discharges)  
+		Facilites, via Maine DEP. <../WWTF_Discharges>  
 *  A3	Stormwater  
         *  Ten years of water quality monitoting data from Long Creek, 
-		provided by the Long Creek Watershed Management District (../LCWMD_Monitoring)  
+		provided by the Long Creek Watershed Management District <../LCWMD_Monitoring>  
 *  A4	Combined Sewer Overflows  
         * Maine DEP, City of Portland, and Portland Water District data
-		on CSO discharges (../Casco_Bay_CSOs)  
+		on CSO discharges <../Casco_Bay_CSOs>  
 *  A5 	Inland Water Quality  
         *  Accessing Maine Department of Environmental Protection (DEP)
-		biomonitoring data over the internet (../access_biomonitoring)  
+		biomonitoring data over the internet <../access_biomonitoring>  
         *  Analyzing DEP  Stream Invertebrate biomonitoring data
-		(../Analysis_Biomonitoring)  
+		<../Analysis_Biomonitoring>  
 		
 		
 *  A6	Climate Change  
         * Analysis of eight decades of weather data from the Portland Jetport.
-		Data accessed through NOAA online data APIs.  (../CDO-Portland-Jetport)  
+		Data accessed through NOAA online data APIs.  <../CDO-Portland-Jetport>  
 		* Redrawing a graphic depicting decades of sea level rise at the Portland
-		tide gage. (../Portland-SLR)  
+		tide gage. <../Portland-SLR>  
 *  A7	Invasive Species  
 ### B. CONDITION OF THE BAY; "HOW IS THE BAY DOING?"	
 *  B8	Bay Water Quality  
-        * Friends of Casco Bay (FOCB) water quality monitoting data (../FOCB_Data)  
+        * Friends of Casco Bay (FOCB) water quality monitoting data <../FOCB_Data>  
 *  B9	Nutrients  
 *  B10	Aquatic Connectivity  
 *  B11	Eelgrass  
@@ -137,31 +138,31 @@ repositories
 *  B13	Coastal Acidification  
         * Analysis of data collected by UNH, on behalf of CBEP, measuring
 		OA-related parameters at the Southern Maine Community College pier,
-		in South Portland.  (../CBEP_OA)  
+		in South Portland.  <../CBEP_OA>  
 		* Analysis of a four years of Friends of Casco Bay (FOCB) water quality
 		data that pertians to ocean acidification.  Data is from data loggers
-		deployed off Chebeague Island. (../FOCB_OA)  
+		deployed off Chebeague Island. <../FOCB_OA>  
 *  B14	Swimming Beaches and Shellfish Beds  
         *  Maine Department of Marine Resources (DMR) data on bacteria in
-		shellfish (../Shellfish_Bacteria)  
+		shellfish <../Shellfish_Bacteria>  
 		*  Maine Beaches Program data on bacteria at monitored beaches
-		(../Beaches_Bacteria)  
+		<../Beaches_Bacteria>  
 *  B15	Toxics  
         * CBEP historical data on toxics in Casco Bay Sediments
-		(../CBEP_Sediments)  
+		<../CBEP_Sediments>  
 		* Maine Surface Water Ambient Toxics (SWAT) data on toxic
-		contaminants in blue mussels (../SWAT_Mussels)  
+		contaminants in blue mussels <../SWAT_Mussels>  
 		* Portland Harbor COmmission data on toxic contaminants in Portland
-		harbor sediments (../PortlandHarborToxics)  
+		harbor sediments <../PortlandHarborToxics>  
 		* Maine Board of Pesticides COntrol data on pyrethroid pesticides in
-		intertidal sediments (../BPC_Pesticides)  
+		intertidal sediments <../BPC_Pesticides>  
 
 ### C. HUMAN CONNECTIONS; "WHY DO WE CARE?"	  
 *  C16	Conserved Lands  
 *  C17	Coastal Habitats  
 *  C18	Economics  
         *  Analysis of recent data on number of cruise ships and cruise ship
-		visitors visiting Portland, Maine.  (../PortlandCruiseShips)  
+		visitors visiting Portland, Maine.  <../PortlandCruiseShips>  
 *  C19	Education  
 *  C20	Stewardship  
 *  C21	Climate Preparedness  
@@ -172,19 +173,19 @@ repositories
 *  Small package to facilitate use of maximum likelihood estimates of 
    (unobserved) left censored values in left censored data, such as
    observations of concentrations of contaminants or bacteria.
-   (../LCensMeans)
+   <../LCensMeans>
 *  Utility package to facilitate uniformaty in graphic design for 
    the 2020 **State of Casco Bay** report.  Defines a default
-   graphic style, and six preferred colors.  (../ CBEP_graphics)
+   graphic style, and six preferred colors.  <../ CBEP_graphics>
 
 ### Side Projects
 *  Exploratory code looking at OA monitoring data from multiple 
-   National Estuary Programs.  (../NEP_OA)
+   National Estuary Programs.  <../NEP_OA>
 *  Notebooks examining thermodynamic relationships among OA
    parameters, temperature and salinity., especially the relationship
    between pCO~2~, [CO~2~] and temperature. Developed to help us
    understand the underlying chemistry for the OA chapter of
-   **State of Casco Bay**. (../OA_Calculations)
+   **State of Casco Bay**. <../OA_Calculations>
 *  Derivation of spatially-balanced sampling design for studying presence
    of pesticides in wells near Maine's iconic wild blueberry fields.
    Project conducted  to assist Maine's Board of Pesticides Control, which
@@ -192,11 +193,11 @@ repositories
    Surveillance near blueberry fields has long been a priority because of 
    a combination of highly permiable soild and sensitive aquatic environments
    in the part of the state where blueberries are grown commercially.
-   (../Blueberry_Sampling)
+   <../Blueberry_Sampling>
 *  Small Python (3) program providing a simple GUI for playing streaming video
    on a Raspberry Pi.  Simplistic program with limited functionality. Can
    also be used on a Windowns computer.  not tested on Apple or other Unix
-   systems. (../radiostreamer)
+   systems. <../radiostreamer>
 
 
 
