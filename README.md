@@ -71,7 +71,7 @@ repositories.
 ### B. CONDITION OF THE BAY; "HOW IS THE BAY DOING?"	
 *  B8	Bay Water Quality  
     * Friends of Casco Bay (FOCB) water quality monitoting data .......... 
-	FOCB_Data](https://github.com/ccb60/FOCB_Data)  
+	[FOCB_Data](https://github.com/ccb60/FOCB_Data)  
 *  B9	Nutrients  
 *  B10	Aquatic Connectivity  
 *  B11	Eelgrass  
@@ -237,13 +237,13 @@ close to three quarters of all marine-related economic activity of the region.
 ## The Team
 The primary author of this archive is Curtis C. Bohlen, Director and lead
 scientist of the Casco Bay Estuary Partnership. Other members of the CBEP
-staff, including Marti Blair, Victoria Boundy, Matthew Craig, and and Thomas
+staff, including Marti Blair, Victoria Boundy, Matthew Craig, and Thomas
 Gilmartin have made additional contributions.
 
-You can find more informaiton about us at the [CBEP website](http://cascobayestuary.org).
+You can find more information about us at the [CBEP website](http://cascobayestuary.org).
 
 ---
-[Back up to to Repository Contents](# Contents)
+[Back up to to Repository Contents](#Contents)
 
 
 
