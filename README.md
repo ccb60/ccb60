@@ -1,14 +1,5 @@
 # Curtis Bohlen Github Archive
 
-## State of Casco Bay Data Archives
-The "State of Casco Bay" data and data analysis archives have been moved 
-to more permanent homes.
-
-Working data, with streamlined versions of data analysis can be found at 
-[CBEP-SoCB](https://github.com/CBEP-SoCB). Complete archives, including original 
-data, code for data QA/QC and data preparation, and many other details,
-can be found at [CBEP-SoCB-Details](https://github.com/CBEP-SoCB-Details). 
-
 # Contents of This Archive
 The repositories included in this archive include several "side projects"
 undertaken as part of my work for the Casco Bay Estuary Partnership, as 
@@ -20,6 +11,14 @@ analysis code, documenting past data analysis, and minimizing
 risk of reinventing wheels in the future.  Most projects here are informal,
 one-off efforts. For the most part, repositories are not in active 
 development and I do not check for comments, questions or pull requests.
+
+### State of Casco Bay Data Archives
+The "State of Casco Bay" data and data analysis archives have been moved 
+to more permanent homes.  Working data, with streamlined versions of data 
+analysis can be found at [CBEP-SoCB](https://github.com/CBEP-SoCB). Complete 
+archives, including original data, code for data QA/QC and data preparation, 
+and many other details, can be found at
+[CBEP-SoCB-Details](https://github.com/CBEP-SoCB-Details). 
 
 ## Context and Background
 I am currently Executive Director, and Staff Scientist for the Casco Bay 
