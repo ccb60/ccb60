@@ -23,7 +23,7 @@ and many other details, can be found at
 [CBEP-SoCB-Details](https://github.com/CBEP-SoCB-Details).
 
 Working directories for data analysis supporting the 2026 State of Casco Bay
-report are available at \[SoCB-2026](https://github.com/SoCB-2026).
+report are available at [SoCB-2026](https://github.com/SoCB-2026).
 
 ## Context and Background
 
